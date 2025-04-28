@@ -4,7 +4,13 @@
 <hl></hl>
 <p align="center">
   🌍 Apaixonado por Tecnologia | 💻 Estudante de Programação
-</p><br><br>
+</p><br>
+
+<p align="justify">
+  Olá! Sou o Arthur Risso, tenho 19 anos e atualmente sou estudante na Fatec Jales, faculdade de tecnologia em Jales-SP. <br>
+  Amo a tecnologia e tudo o que pode ser feito através dela, com isso em mente, me interesso cada dia mais em relação a programação e busco aprender e evoluir todos os dias!
+</p>
+<br>
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=javascript,react,python)](https://skillicons.dev)<br><br>
