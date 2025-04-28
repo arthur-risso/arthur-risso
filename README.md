@@ -33,5 +33,5 @@
 </details>
 
 <p align="center">
-  Bem vindo! Fique a vontade para dar uma olhada nos repositórios 😊
+  Fique a vontade para dar uma olhada nos repositórios 😊
 </p>
