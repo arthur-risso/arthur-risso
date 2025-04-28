@@ -9,6 +9,11 @@
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=javascript,react,python)](https://skillicons.dev)<br><br>
 
+## 📫 Contato
+
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.rprodovalho@gmail.com)](mailto:arthur.rprodovalho@gmail.com)
+[![Linkedin: Arthur](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-risso/)](https://www.linkedin.com/in/arthur-risso/)
+
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
