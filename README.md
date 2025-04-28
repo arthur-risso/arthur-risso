@@ -13,11 +13,14 @@
 <br>
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,python)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,python)](https://skillicons.dev)<br>
+
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,vite,git,github)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.rprodovalho@gmail.com)](mailto:arthur.rprodovalho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-arthur.rprodovalho@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.rprodovalho@gmail.com)](mailto:arthur.rprodovalho@gmail.com)
 [![Linkedin: Arthur](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-risso/)](https://www.linkedin.com/in/arthur-risso/)
 
 <details open="">
