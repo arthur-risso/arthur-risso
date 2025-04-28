@@ -2,6 +2,13 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 </h1>
 <hl></hl>
+<p align="center">
+  🌍 Apaixonado por Tecnologia | 💻 Estudante de Programação
+</p><br><br>
+
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,python)](https://skillicons.dev)<br><br>
+
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
