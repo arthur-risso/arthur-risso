@@ -13,7 +13,7 @@
 <br>
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,python)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,tailwind,python)](https://skillicons.dev)<br>
 
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=vscode,vite,git,github)](https://skillicons.dev)<br><br>
